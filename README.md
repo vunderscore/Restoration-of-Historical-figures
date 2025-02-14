@@ -2,6 +2,10 @@
 
 A unique chatbot application that brings historical figures to life through image recognition and conversational AI. Upload an image of a historical figure, and engage in a conversation with an AI that adopts their persona and responds as they might have.
 
+## Graph Used
+![image](https://github.com/user-attachments/assets/24bb70aa-fbe8-4f35-90aa-b7a70d09a949)
+
+
 ## 🌟 Features
 
 - **Image Recognition**: Upload images of historical figures
@@ -95,6 +99,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Your Name - [vishaakp@gmail.com]
+Vishaak - [vishaakp@gmail.com]
 
 Project Link: [https://github.com/yourusername/historical-figure-chat]
